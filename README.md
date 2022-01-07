@@ -1,9 +1,4 @@
-# Image Crawler
-This project was inspired by Thầy Trường.
-
-
-This version has threading and some **ERRORS**
-
+# iCalendar for FAP
 
 Enjoy using this program :D
 
