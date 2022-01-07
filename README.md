@@ -1,2 +1,1 @@
-# FAP-iCalendar
-FAP-iCalendar
+# iCalendar for FAP
